@@ -26,9 +26,9 @@ import {
 import './styles.css'
 
 const DOWNLOAD_URL =
-  'https://github.com/prazwal7-cell/AuraWall-Downloads/releases/download/v0.1.0/AuraWall_0.1.0_x64-setup.exe'
+  'https://github.com/prazwal7-cell/AuraWall-Downloads/releases/download/v0.1.2/AuraWall_0.1.2_x64-setup.exe'
 
-const VERSION = '0.1.0'
+const VERSION = '0.1.2'
 
 type Page =
   | 'home'
